@@ -251,6 +251,11 @@ HALT!
 ```
 
 ```
+Shoulder to shoulder on the green lines.
+```
+
+
+```
 WELCOME TO THE OBBY!
 ```
 
@@ -281,9 +286,6 @@ GO WHEN THE TIMER STARTS!
 
 --------------------------------------------------------------------------
 
-```
-Shoulder to shoulder on the green lines.
-```
 
 ```
 SQUAD,
