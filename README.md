@@ -327,12 +327,12 @@ FALL IN ON THE PADS!
 ```
 
 ```
-Recruit(s),
+Recruits,
 ```
 
 ```
 You have displayed competence, dedication, and respect to
-both your superiors and fellow Recruit(s),
+both your superiors and fellow Recruits,
 ```
 
 ```
