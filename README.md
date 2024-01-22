@@ -68,6 +68,14 @@ FROM YOUR POSITION!
 CENTRE TURN - TURN TO FACE THE DIRECTION OF THE HOST!
 ```
 
+```
+LEFT INCLINE - 45 DEGREE TURN TO YOUR LEFT!
+```
+
+```
+RIGHT INCLINE - 45 DEGREE TURN TO YOUR RIGHT!
+```
+
 --------------------------------------------------------------------------
 
 ```
