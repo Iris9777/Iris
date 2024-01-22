@@ -39,6 +39,7 @@ BUILDING!
 ```
 AM I UNDERSTOOD?
 ```
+➢ They must respond with, “YES, INSTRUCTOR!” or something similar.
 
 --------------------------------------------------------------------------
 
@@ -106,6 +107,9 @@ LEFT, INCLINE!
 ```
 RIGHT, INCLINE!
 ```
+
+[ONCE YOU HAVE FINISHED THE ABOVE SECTION, STATE THE
+NEXT PART EXACTLY AS IT IS ON THIS DOCUMENT]
 
 --------------------------------------------------------------------------
 
