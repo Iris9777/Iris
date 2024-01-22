@@ -203,11 +203,11 @@ Codex,
 ```
 
 ```
-Future
+Future.
 ```
 
 ```
-Communications
+Communications.
 ```
 
 
