@@ -198,6 +198,20 @@ Sit in the chair in front of you.
 After you read each slide, say “Read, Instructor.”
 ```
 
+```
+Codex, 
+```
+
+```
+Future
+```
+
+```
+Communications
+```
+
+
+
  [ONCE YOU HAVE FINISHED THE ABOVE SECTION, CONTINUE
 WITH MARCHING EXACTLY AS SEEN BELOW]
 
