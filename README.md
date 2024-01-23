@@ -4,7 +4,7 @@ BISCUIT6050 AND YOU SHALL ADDRESS ME AS INSTRUCTOR.
 ```
 
 ```
-YOU ARE EXPECTED TO LISTEN TO EVERY ORDER AND EXPECTATION
+YOU ARE EXPECTED TO LISTEN TO EVERY ORDER AND EXPECTATION 
 THAT I GIVE YOU.
 ```
 
@@ -21,18 +21,18 @@ YOU SHALL NOT GO AFK AT ALL DURING THIS TRAINING.
 ```
 
 ```
-YOU MUST PROVE TO ME THAT YOU’RE WORTHY TO PROGRESS
+YOU MUST PROVE TO ME THAT YOU’RE WORTHY TO PROGRESS 
 WITHIN THE BRITISH ARMY.
 ```
 
 ```
-THERE WILL BE A STRIKE SYSTEM IN PLACE. IF YOU RECEIVE THREE
-STRIKES AT ANY POINT DURING THIS TRAINING YOU WILL BE
+THERE WILL BE A STRIKE SYSTEM IN PLACE. IF YOU RECEIVE THREE 
+STRIKES AT ANY POINT DURING THIS TRAINING YOU WILL BE 
 REMOVED FROM THIS BMT.
 ```
 
 ```
-YOU MUST USE FULL CAPITAL LETTERS WHEN OUTSIDE OF A
+YOU MUST USE FULL CAPITAL LETTERS WHEN OUTSIDE OF A 
 BUILDING!
 ```
 
@@ -64,7 +64,7 @@ RIGHT TURN - 90 DEGREE TURN TO YOUR RIGHT!
 ```
 
 ```
-ABOUT TURN - 180 DEGREE TO FACE THE OPPOSITE SIDE
+ABOUT TURN - 180 DEGREE TO FACE THE OPPOSITE SIDE 
 FROM YOUR POSITION!
 ```
 
@@ -88,7 +88,7 @@ TO COMPLETE THEM?
 ```
 
 ```
-YOU WILL NOW GO THROUGH THE DRILLS AS I HAVE TAUGHT
+YOU WILL NOW GO THROUGH THE DRILLS AS I HAVE TAUGHT 
 THEM TO YOU.
 ```
 
@@ -190,7 +190,7 @@ Enter the classroom and stand behind a seat in the front row.
 ```
 
 ```
-We will be going over the Codex, what you need to know for your
+We will be going over the Codex, what you need to know for your 
 future within the group, and how we communicate with each other.
 ```
 
@@ -270,7 +270,7 @@ DO NOT CHEAT ON ANY PART OF THIS OBBY.
 ```
 
 ```
-EXAMPLES OF CHEATING INCLUDE STARTING BEFORE BEING
+EXAMPLES OF CHEATING INCLUDE STARTING BEFORE BEING 
 TOLD TO OR SKIPPING PARTS OF THE OBBY.
 ```
 
@@ -333,17 +333,17 @@ Recruits,
 ```
 
 ```
-You have displayed competence, dedication, and respect to
+You have displayed competence, dedication, and respect to 
 both your superiors and fellow Recruits,
 ```
 
 ```
-Thus, I am awarding you graduation from Basic Military
+Thus, I am awarding you graduation from Basic Military 
 Training and enlistment as a Private into the British Army.
 ```
 
 ```
-Remember, in order to progress further in rank, you must join
+Remember, in order to progress further in rank, you must join 
 the discvrd server using the invite code .gg/BA.
 ```
 
