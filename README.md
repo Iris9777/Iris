@@ -41,6 +41,10 @@ AM I UNDERSTOOD?
 ```
 ➢ They must respond with, “YES, INSTRUCTOR!” or something similar.
 
+```
+SAY: "YES, INSTRUCTOR!"
+```
+
 --------------------------------------------------------------------------
 
 ```
@@ -209,8 +213,6 @@ Future.
 ```
 Communications.
 ```
-
-
 
  [ONCE YOU HAVE FINISHED THE ABOVE SECTION, CONTINUE
 WITH MARCHING EXACTLY AS SEEN BELOW]
